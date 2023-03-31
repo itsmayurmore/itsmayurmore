@@ -14,9 +14,3 @@ I'm Mayur More.<br>Currently Pursuing BTech Computer Engineering.<br>Passionate 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsmayurmore&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mmayur268) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
